@@ -1,14 +1,25 @@
+@font-face {
+	font-family: myFirstFont;
+	src: url("checkbook.ttf");
+	font-size: 26px;
+	
+}
+
 body {
-	background-color: #000;
+	background-image: url("images/water_square.jpg");
+	background-repeat: repeat;
+	font-family: myFirstFont;
+	
 }
 
 .main-content {
-	color: #fff;
+	color: #ff1a8c;
 }
 
 .title {
 	font-weight: bold;
     text-align: center;
+    font-size: 50px;
 }
 
 .spacer-20 {
@@ -29,3 +40,5 @@ body {
 	margin: 0 auto;
 	text-align: center;
 }
+
+.font-
