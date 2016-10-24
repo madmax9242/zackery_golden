@@ -22,6 +22,15 @@ body {
     font-size: 50px;
 }
 
+.centered {
+	font-align: center;
+	font-weight: bold;
+}
+
+.spacer-10 {
+	height: 10px;
+}
+
 .spacer-20 {
     height: 20px;
 }
@@ -36,7 +45,7 @@ body {
 }
 
 .red-hyperlink {
-	color: #fff;
+	color: #000;
 	text-decoration: underline;
 }
 
